@@ -7,6 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class IndexComponent implements OnInit {
 	title = "next page";
+	title2 = "next page";
   constructor() { }
   
 
