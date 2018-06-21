@@ -10,5 +10,6 @@ export class AppComponent {
   bar='navigation bar';
 	//0 this is a comment 
 	//1 this is a comment 
+	//2 this is a comment 
 
 }
