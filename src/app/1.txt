@@ -1,6 +1,6 @@
-<<<<<<< HEAD
 fwerw:w
 ywe
-=======
 ---old file
+>>>>>>> br1
+>>>>>>> br1
 >>>>>>> br1
