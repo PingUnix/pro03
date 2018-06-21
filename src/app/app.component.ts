@@ -9,4 +9,5 @@ export class AppComponent {
   title = 'app this is main top';
   bar='navigation bar';
 	//this is a comment 
+	//1 line this is a comment 
 }
